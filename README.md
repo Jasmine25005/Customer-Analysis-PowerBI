@@ -33,9 +33,11 @@ This Power BI dashboard provides actionable insights into customer behavior, pur
    git clone https://github.com/Jasmine25005/Customer-Analysis-PowerBI.git
    ```
 
-2. Open the Power BI file (`.pbix`) with Power BI Desktop
+2. Create or open a Power BI file (`.pbix`) with Power BI Desktop
 
 3. Connect to your data sources and refresh the data
+
+   **Note**: The dashboard file will be added to this repository in future updates. Users can create their own dashboard following the guidelines in this README.
 
 ### Data Requirements
 
@@ -47,6 +49,8 @@ The dashboard expects the following data fields:
 - **Churn Indicators**: Account Status, Engagement Score
 
 ## 📈 Usage
+
+Once you have created your dashboard:
 
 1. **Open the Dashboard**: Launch the `.pbix` file in Power BI Desktop
 2. **Refresh Data**: Click "Refresh" to load the latest data from your sources
@@ -80,7 +84,7 @@ Contributions are welcome! If you'd like to improve this dashboard:
 
 ## 📝 License
 
-This project is available for educational and commercial use. Please check the LICENSE file for more details.
+This project is available for educational and commercial use.
 
 ## 📧 Contact
 
